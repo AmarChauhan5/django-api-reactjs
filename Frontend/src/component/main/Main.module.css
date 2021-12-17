@@ -1,0 +1,55 @@
+.mid{
+    min-height: 200px;
+    width: 300px;
+    background-color: rgb(197, 201, 212);
+    /* max-width: 10px; */
+    padding: 10px;
+    border-radius: 10px;
+}
+.pag{
+    background-color: rgba(197, 201, 212, 0.466);
+}
+
+.my_button{
+    font-weight: bold;
+    background-color: transparent;
+    border:1px solid black;
+    padding-left: 5pxpx;
+    padding-right: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+/* .my_button:hover{
+    font-weight: 500;
+    /* background-color: black; */
+    /* color: rgb(26, 68, 10);
+    border:1px solid rgb(10, 9, 9);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 10px;
+    border-radius: 5px;
+} */ 
+.my_check{
+    height: 18px;
+    width: 18px;
+    background-color: transparent;
+    border-radius: 25px;
+}
+
+.my_input{
+    background-color: transparent;
+    font-size: 12px;
+    margin-left: 5px;
+    width: 75%;
+    border : 2px solid rgba(255, 255, 255, 0.459);
+    border-radius: 50px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    font-weight: 400;
+}
+.my_input:focus{
+    background-color:rgba(255, 255, 255, 0.137);
+    outline: none;
+    border : 2px solid rgba(255, 255, 255, 0.336);
+}
