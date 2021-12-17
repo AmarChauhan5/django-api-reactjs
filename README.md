@@ -3,7 +3,7 @@
 1.Python 3.7<br />
 2.Django 3.2.10<br />
 I Make the API using the python package "djangorestframework". <br />
-#### <a href="https://amarchauhan.pythonanywhere.com/api/">Visit amarchauhan.pythonanywhere.com</a>
+#### <a href="https://amarchauhan.pythonanywhere.com/api/">Visit amarchauhan.pythonanywhere.com</a> In browsable api 
 ## FrontEnd
 ### I'm using the react js as frontend.
 # ScreenShot
